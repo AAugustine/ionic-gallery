@@ -1,6 +1,8 @@
 {
   "name": "styleApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "a844bf3d"
 }
